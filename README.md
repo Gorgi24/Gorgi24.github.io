@@ -16,6 +16,6 @@
   player.mute();
   player.playVideo();
 </script>
- <img src="https://user-images.githubusercontent.com/123103459/213767174-1fd4afd3-1b4c-40ab-853e-f356b448945e.jpg" alt="Crumpets and Tea" width="270" height="180"
+ <img src="https://user-images.githubusercontent.com/123103459/213767174-1fd4afd3-1b4c-40ab-853e-f356b448945e.jpg" alt="Crumpets and Tea" width="270" height="180">
     </body>
 </html>
