@@ -16,7 +16,7 @@
   player.mute();
   player.playVideo();
 </script>
- <img class="rg_i Q4LuWd" width="310" height="163" alt="Timeline: The Life Of Queen Elizabeth II" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEm_Ync1S_V4yQ7…h-reuters-1200_625x300_12_June_22.jpg%3Fim%3DResize%3D(1230,900)&usqp=CAU" data-iml="1395">
-    <img class="rg_i Q4LuWd" width="270" height="180" alt="McConnell remaking Senate in age of Trump, impeachment | AP News" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjr-AQAEbL9I5jz…com/afs-prod/media/bc335d4…/3000.jpeg&usqp=CAU" data-iml="1235.7999999998137">
+ <img src="https://user-images.githubusercontent.com/123103459/213767174-1fd4afd3-1b4c-40ab-853e-f356b448945e.jpg" alt="Crumpets and Tea" width="270" height="180"
+
     </body>
 </html>
