@@ -6,7 +6,7 @@ Comp Sci Website
   <script src="https://www.youtube.com/iframe_api"></script>
     <title>Home Page</title>
   </head>
-  <body bgcolor="#DAF7A6">
+  <body bgcolor="#e6a91d">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
