@@ -16,5 +16,6 @@
   player.mute();
   player.playVideo();
 </script>
+ <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progr…_auto:good%2Cw_1200/MTkyMTkzNDg2NTg0MjkyNTg4/gettyimages-1188052265.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Queen Elizabeth II - Early Life, Husband & Children - Biography" data-noaft="1" style="width: 557px; height: 557px; margin: 0px;">
     </body>
 </html>
