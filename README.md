@@ -1,6 +1,4 @@
 # Gorgi24.github.io
-Comp Sci Website
-<!doctype html>
 <html lang="en">
   <head>
   <script src="https://www.youtube.com/iframe_api"></script>
