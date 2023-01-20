@@ -5,7 +5,7 @@
     <title>Home Page</title>
   </head>
   <body bgcolor="#e6a91d">
-    <a href="index.html">Home</a>
+    <a href="https://gorgi24.github.io/">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="https://gorgi24.github.io/AboutGorgi.github.io/">About Me</a>
     <h1>This is Georgi's Home Page!</h1>
